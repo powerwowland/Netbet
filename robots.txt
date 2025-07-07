@@ -1,5 +1,3 @@
 User-agent: *
 Allow: /
-Disallow: /private/
-Disallow: /tmp/
 Sitemap: https://netbet888.xyz/sitemap.xml
